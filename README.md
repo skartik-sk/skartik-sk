@@ -1,8 +1,22 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+<div >
+<img src ="https://github.com/SingupalliKartik/SingupalliKartik/assets/113655672/9c4c2822-2310-45ff-a4e0-c566c6af30e1"/>
+
+
+</div>
+<h2 align="left"👋 Hello, I'm Singupalli Kartik, a second-year undergraduate majoring in computer science and engineering at UIT RGPV.
+
+🧐 I'm a tech geek who loves learning about and creating new technologies while staying current with trends.
+</h2>
+
+<h3>
+  
+🚀 My interests lie in web and app development, and I enjoy writing C++ code while still having a working knowledge of other programming languages.
+</h3>
 
 ###
 
-<img align="right" height="117" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"  />
+
 
 ###
 
@@ -60,8 +74,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/singupallikartik/singupallikartik/output/snake.svg" alt="Snake animation" />
 
 ###
 
