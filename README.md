@@ -85,5 +85,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=singupallikartik&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/SingupalliKartik/SingupalliKartik/output/github-contribution-grid-snake.svg?palette=github-dark"/>
 
