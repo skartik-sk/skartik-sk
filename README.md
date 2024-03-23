@@ -1,6 +1,8 @@
 
-<img src ="https://github.com/SingupalliKartik/SingupalliKartik/assets/113655672/9c4c2822-2310-45ff-a4e0-c566c6af30e1"/>
-
+<!-- <img src ="https://github.com/SingupalliKartik/SingupalliKartik/assets/113655672/9c4c2822-2310-45ff-a4e0-c566c6af30e1"/> -->
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 </div>
 <h1 align="center"><b>Hi , I'm Singupalli Kartik </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://raw.githubusercontent.com/SingupalliKartik/SingupalliKartik/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
@@ -88,5 +90,10 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/skartik_sk)
 </div>
 
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div> 
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
