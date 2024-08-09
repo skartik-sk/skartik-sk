@@ -5,7 +5,7 @@
 </p>
 </div>
 <h1 align="center"><b>Hi , I'm Singupalli Kartik </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://raw.githubusercontent.com/SingupalliKartik/SingupalliKartik/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
+<img src="https://raw.githubusercontent.com///output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
 <!--  -->
 
@@ -72,7 +72,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=singupallikartik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singupallikartik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=singupallikartik&theme=dracula&column=3&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
