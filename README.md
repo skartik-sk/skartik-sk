@@ -5,13 +5,13 @@
 </p>
 </div>
 <h1 align="center"><b>Hi , I'm Singupalli Kartik </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://raw.githubusercontent.com///output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
+<img src="https://raw.githubusercontent.com/skartik-sk/skartik-sk/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
 <!--  -->
 
 
 ###	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **About me**
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+tech+geek..&hearts;++;I'm+an+android+Developer;I'm+a+Web+Developer;A+C%2B%2B+Coder;I'm+a+Chess+Player;Computer+Science+Student;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -63,7 +63,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/016/833/872/original/github-logo-git-hub-icon-on-white-background-free-vector.jpg" height="35" alt="github logo"  />
 </div>
 
 ###
