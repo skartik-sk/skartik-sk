@@ -6,7 +6,17 @@
 </div>
 <h1 align="center"><b>Hi , I'm Singupalli Kartik </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://raw.githubusercontent.com/skartik-sk/skartik-sk/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 <!--  -->
 
    
