@@ -1,12 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Singupalli Kartik — Backend and Solana Developer">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#9945FF"/>
-      <stop offset="0.55" stop-color="#7C3AED"/>
-      <stop offset="1" stop-color="#14F195"/>
+    <linearGradient id="deep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0F0C29"/>
+      <stop offset="0.5" stop-color="#302B63">
+        <animate attributeName="stop-color" values="#302B63;#3A3475;#302B63" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#0F0C29"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="220" rx="14" fill="url(#g)"/>
-  <text x="600" y="103" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="6">KARTIK</text>
-  <text x="600" y="155" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" fill="#E9F9F1">Backend &amp; Solana Developer — Rust · Golang · TypeScript</text>
+
+  <path d="M0,0 H1200 V195 C1000,252 800,160 600,205 C400,160 200,252 0,195 Z" fill="url(#deep)"/>
+
+  <text x="600" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="600" fill="#ffffff" letter-spacing="4">Singupalli Kartik</text>
+  <text x="600" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#C9C6E8">Backend · Solana Developer · Rust · Golang · TypeScript</text>
 </svg>
